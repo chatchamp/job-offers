@@ -1,8 +1,8 @@
 # Job Offers in Munich
 
 ## chatchamp
-(chatchamp)[https://career.chatchamp.io/]
+[chatchamp](https://career.chatchamp.io/)
 
-## other
+### other
 
-- (TUM)[https://db.alumni.tum.de/jobs?language=en]
+- [TUM](https://db.alumni.tum.de/jobs?language=en)
